@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [OrangeHRMApplication]">
+  <test thread-count="5" parallel="tests" name="Addemployee(failed)">
+    <classes>
+      <class name="OrangeHRMApplciationTestCases.OrangeHrm_HomePage_AddEmployee_Xlsx">
+        <methods>
+          <include name="appplicationClose"/>
+          <include name="applicationlaunch"/>
+          <include name="addEmployeeValiation"/>
+        </methods>
+      </class> <!-- OrangeHRMApplciationTestCases.OrangeHrm_HomePage_AddEmployee_Xlsx -->
+    </classes>
+  </test> <!-- Addemployee(failed) -->
+  <test thread-count="5" parallel="tests" name="EmployeeList(failed)">
+    <classes>
+      <class name="OrangeHRMApplciationTestCases.OragneHRMApplicatioEmployeeList">
+        <methods>
+          <include name="appplicationClose"/>
+          <include name="employeeListValidation"/>
+          <include name="applicationlaunch"/>
+        </methods>
+      </class> <!-- OrangeHRMApplciationTestCases.OragneHRMApplicatioEmployeeList -->
+    </classes>
+  </test> <!-- EmployeeList(failed) -->
+  <test thread-count="5" parallel="tests" name="loginValidtion(failed)">
+    <classes>
+      <class name="OrangeHRMApplciationTestCases.OrangeHrm_Login_validation_WithXLSX">
+        <methods>
+          <include name="appplicationClose"/>
+          <include name="applicationlaunch"/>
+          <include name="orangHRM_LoginValidation"/>
+        </methods>
+      </class> <!-- OrangeHRMApplciationTestCases.OrangeHrm_Login_validation_WithXLSX -->
+    </classes>
+  </test> <!-- loginValidtion(failed) -->
+</suite> <!-- Failed suite [OrangeHRMApplication] -->

@@ -1,0 +1,697 @@
+2024-05-16 08:52:51,583 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-16 08:52:51,594 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-16 08:52:51,582 - Utility.Log -INFO - The Expected Login Panel Text is:- LOGIN Panel
+2024-05-16 08:52:51,665 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-16 08:52:51,675 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-16 08:52:51,679 - Utility.Log -INFO - The Actual Login Panel Text is:- LOGIN Panel
+2024-05-16 08:52:51,687 - Utility.Log -INFO - Successfully Navigated OrangeHRM Application Login Page Text Matched :-PASS
+2024-05-16 08:52:51,693 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-16 08:52:51,697 - Utility.Log -INFO - The Expected Login Page Title orangeHRM
+2024-05-16 08:52:51,708 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-16 08:52:51,712 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-16 08:52:51,716 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-16 08:52:51,733 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-16 08:52:51,738 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-16 08:52:51,750 - Utility.Log -INFO - The Actual Login page Title OrangeHRM
+2024-05-16 08:52:51,759 - Utility.Log -INFO - Successfully Navigated OrangeHRM Application Title Matched :-PASS
+2024-05-16 08:52:51,762 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-16 08:52:51,774 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-16 08:52:51,782 - Utility.Log -INFO - sapuruTilak
+2024-05-16 08:52:51,785 - Utility.Log -INFO - Tilak@143
+2024-05-16 08:52:52,285 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-16 08:52:52,329 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-16 09:02:24,840 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-16 09:02:24,885 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-16 09:02:24,893 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-16 09:02:24,897 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-16 09:02:24,907 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-16 09:02:24,911 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-16 09:02:26,535 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-16 09:02:26,581 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-16 09:02:26,584 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-16 09:02:27,830 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-16 09:02:27,888 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-16 09:02:27,892 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-16 09:04:13,326 - Utility.Log -INFO - The Expected Login Panel Text is:- LOGIN Panel
+2024-05-16 09:04:13,372 - Utility.Log -INFO - The Actual Login Panel Text is:- LOGIN Panel
+2024-05-16 09:04:13,377 - Utility.Log -INFO - Successfully Navigated OrangeHRM Application Login Page Text Matched :-PASS
+2024-05-16 09:04:13,382 - Utility.Log -INFO - The Expected Login Page Title orangeHRM
+2024-05-16 09:04:13,390 - Utility.Log -INFO - The Actual Login page Title OrangeHRM
+2024-05-16 09:04:13,395 - Utility.Log -INFO - Successfully Navigated OrangeHRM Application Title Matched :-PASS
+2024-05-16 09:04:13,411 - Utility.Log -INFO - sapuruTilak
+2024-05-16 09:04:13,415 - Utility.Log -INFO - Tilak@143
+2024-05-16 09:04:15,016 - Utility.Log -INFO - Successfully Navigated to orangeHrm Home Page:-Pass
+2024-05-16 09:04:16,810 - Utility.Log -INFO - sapuruTilak
+2024-05-16 09:04:16,816 - Utility.Log -INFO - Tilak1
+2024-05-16 09:04:17,852 - Utility.Log -INFO - Failed To login Because of invalid Credentials:-Fail
+2024-05-16 09:04:18,021 - Utility.Log -INFO - sapuruTilak
+2024-05-16 09:04:18,024 - Utility.Log -INFO - Tilak@143
+2024-05-16 09:04:19,598 - Utility.Log -INFO - Successfully Navigated to orangeHrm Home Page:-Pass
+2024-05-16 09:04:21,333 - Utility.Log -INFO - Sapuru1
+2024-05-16 09:04:21,337 - Utility.Log -INFO - Tilak@143
+2024-05-16 09:04:22,063 - Utility.Log -INFO - Failed To login Because of invalid Credentials:-Fail
+2024-05-16 09:04:22,205 - Utility.Log -INFO - Sapuru123
+2024-05-16 09:04:22,208 - Utility.Log -INFO - Tilak123456
+2024-05-16 09:04:22,923 - Utility.Log -INFO - Failed To login Because of invalid Credentials:-Fail
+2024-05-16 09:04:25,961 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-16 09:04:26,021 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-16 09:04:26,028 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-16 09:04:26,033 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-16 09:04:26,048 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-16 09:04:26,051 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-16 09:04:27,817 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-16 09:04:27,870 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-16 09:04:27,874 - Utility.Log -INFO - Successfully Navigated to OrangeHrm HomePage:-Pass
+2024-05-16 09:04:33,873 - Utility.Log -INFO - The Expected Add Employee Page Text is :-Add Employee
+2024-05-16 09:04:33,916 - Utility.Log -INFO - The Actual Add Employee Page Text is:-Add Employee
+2024-05-16 09:04:33,919 - Utility.Log -INFO - Successfully Navigated to Add Employee Page:-Pass
+2024-05-16 09:04:37,872 - Utility.Log -INFO - Successfully Navigated to OrangeHrm PersonalDetailsPage:-Pass
+2024-05-16 09:04:37,908 - Utility.Log -INFO - The FirstName is matched:-Pass
+2024-05-16 09:04:37,945 - Utility.Log -INFO - The Middle Name is matched:-Pass
+2024-05-16 09:04:37,997 - Utility.Log -INFO - The last Name is matched:-Pass
+2024-05-16 09:04:38,033 - Utility.Log -INFO - The Employee Id is matched:-Pass
+2024-05-16 09:04:40,644 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-16 09:04:53,555 - Utility.Log -INFO - Successfully Navigated to OrangeHrm PersonalDetailsPage:-Pass
+2024-05-16 09:04:53,580 - Utility.Log -INFO - The FirstName is matched:-Pass
+2024-05-16 09:04:53,607 - Utility.Log -INFO - The Middle Name is matched:-Pass
+2024-05-16 09:04:53,646 - Utility.Log -INFO - The last Name is matched:-Pass
+2024-05-16 09:04:53,671 - Utility.Log -INFO - The Employee Id is matched:-Pass
+2024-05-16 09:04:56,310 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-16 09:05:08,905 - Utility.Log -INFO - Successfully Navigated to OrangeHrm PersonalDetailsPage:-Pass
+2024-05-16 09:05:08,939 - Utility.Log -INFO - The FirstName is matched:-Pass
+2024-05-16 09:05:08,966 - Utility.Log -INFO - The Middle Name is matched:-Pass
+2024-05-16 09:05:08,996 - Utility.Log -INFO - The last Name is matched:-Pass
+2024-05-16 09:05:09,018 - Utility.Log -INFO - The Employee Id is matched:-Pass
+2024-05-16 09:05:11,832 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-16 09:05:24,244 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-16 09:05:24,374 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-16 09:05:24,377 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-16 09:05:24,380 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-16 09:05:24,392 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-16 09:05:24,395 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-16 09:05:25,901 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-16 09:05:25,932 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-16 09:05:25,934 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-16 09:05:27,597 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-16 09:05:27,633 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-16 09:05:27,636 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:31:35,840 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:31:35,909 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:31:35,921 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:31:35,927 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:31:35,940 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:31:35,947 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:31:37,441 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:31:37,529 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:31:37,535 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:31:38,689 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:31:38,763 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:31:38,773 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:33:42,963 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:33:43,019 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:33:43,025 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:33:43,029 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:33:43,038 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:33:43,042 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:33:44,588 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:33:44,637 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:33:44,640 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:33:45,787 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:33:45,824 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:33:45,828 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:35:50,245 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:35:50,289 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:35:50,296 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:35:50,300 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:35:50,309 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:35:50,313 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:35:51,835 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:35:51,880 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:35:51,883 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:35:53,142 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:35:53,191 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:35:53,198 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:37:29,989 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:37:30,044 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:37:30,050 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:37:30,054 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:37:30,064 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:37:30,069 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:37:31,577 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:37:31,614 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:37:31,618 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:37:37,497 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:37:37,525 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:37:37,530 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:38:16,517 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:38:16,559 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:38:16,566 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:38:16,571 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:38:16,581 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:38:16,585 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:38:18,042 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:38:18,086 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:38:18,089 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:38:19,191 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:38:19,235 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:38:19,239 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:39:08,533 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:39:08,607 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:39:08,615 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:39:08,619 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:39:08,632 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:39:08,638 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:39:10,515 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:39:10,562 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:39:10,565 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:39:16,469 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:39:16,511 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:39:16,516 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:41:35,069 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:41:35,141 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:41:35,147 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:41:35,151 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:41:35,159 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:41:35,163 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:41:36,749 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:41:36,803 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:41:36,806 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:41:42,747 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:41:42,779 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:41:42,783 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:42:05,522 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:42:05,576 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:42:05,583 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:42:05,589 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:42:05,597 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:42:05,602 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:42:07,154 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:42:07,202 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:42:07,207 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:42:08,344 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:42:08,391 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:42:08,394 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:45:33,772 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:45:33,822 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:45:33,828 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:45:33,832 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:45:33,840 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:45:33,844 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:45:35,328 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:45:35,395 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:45:35,398 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:45:36,524 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:45:36,562 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:45:36,568 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:47:04,793 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:47:04,858 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:47:04,865 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:47:04,872 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:47:04,879 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:47:04,885 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:47:06,549 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:47:06,606 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:47:06,609 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:47:12,527 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:47:12,565 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:47:12,570 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:47:57,725 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:47:57,768 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:47:57,773 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:47:57,777 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:47:57,785 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:47:57,790 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:47:59,274 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:47:59,320 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:47:59,323 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:48:00,436 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:48:00,473 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:48:00,476 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:51:39,188 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:51:39,228 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:51:39,234 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:51:39,239 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:51:39,246 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:51:39,250 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:51:40,901 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:51:41,015 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:51:41,019 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:51:42,096 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:51:42,140 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:51:42,145 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:53:38,225 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:53:38,293 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:53:38,302 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:53:38,306 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:53:38,318 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:53:38,324 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:53:40,581 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:53:40,643 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:53:40,646 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:53:47,422 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:53:47,474 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:53:47,483 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:55:15,575 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:55:15,639 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:55:15,648 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:55:15,653 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:55:15,663 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:55:15,669 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:55:17,721 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:55:17,840 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:55:17,842 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:55:19,210 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:55:19,263 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:55:19,271 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:56:03,709 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:56:03,778 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:56:03,787 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:56:03,794 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:56:03,806 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:56:03,812 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:56:05,826 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:56:05,878 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:56:05,881 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:56:07,371 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:56:07,419 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:56:07,432 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:57:25,032 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:57:25,087 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:57:25,093 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:57:25,098 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:57:25,106 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:57:25,111 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:57:26,575 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:57:26,635 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:57:26,638 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:57:27,783 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:57:27,816 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:57:27,821 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 08:58:10,423 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 08:58:10,476 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 08:58:10,482 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 08:58:10,487 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 08:58:10,494 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 08:58:10,498 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 08:58:12,003 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 08:58:12,060 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 08:58:12,062 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 08:58:13,181 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 08:58:13,292 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 08:58:13,299 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:08:01,581 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:08:01,628 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:08:01,635 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:08:01,639 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:08:01,647 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:08:01,651 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:08:03,201 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:08:03,237 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:08:03,240 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:08:07,266 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:08:07,315 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Dashboard
+2024-05-17 09:08:07,319 - Utility.Log -INFO - Failed to Navigate to OrangeHrm Employee List Page:-Fail
+2024-05-17 09:10:27,842 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:10:27,892 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:10:27,898 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:10:27,903 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:10:27,912 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:10:27,917 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:10:29,460 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:10:29,501 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:10:29,504 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:10:34,938 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:10:34,982 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:10:34,986 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:10:52,213 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:10:52,266 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:10:52,273 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:10:52,282 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:10:52,292 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:10:52,298 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:10:53,806 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:10:53,852 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:10:53,856 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:10:59,742 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:10:59,787 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:10:59,791 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:11:25,738 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:11:25,782 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:11:25,789 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:11:25,797 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:11:25,808 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:11:25,813 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:11:27,308 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:11:27,349 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:11:27,351 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:11:33,219 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:11:33,263 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:11:33,267 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:12:31,325 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:12:31,376 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:12:31,382 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:12:31,390 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:12:31,398 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:12:31,406 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:12:32,866 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:12:32,912 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:12:32,916 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:12:38,805 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:12:38,840 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:12:38,844 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:13:25,488 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:13:25,547 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:13:25,559 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:13:25,566 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:13:25,578 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:13:25,587 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:13:27,737 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:13:27,838 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:13:27,842 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:13:29,239 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:13:29,292 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:13:29,296 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:13:59,684 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:13:59,777 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:13:59,787 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:13:59,795 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:13:59,811 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:13:59,818 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:14:02,360 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:14:02,537 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:14:02,543 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:14:04,279 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:14:04,362 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:14:04,366 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:14:21,410 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:14:21,462 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:14:21,469 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:14:21,474 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:14:21,485 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:14:21,489 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:14:22,980 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:14:23,040 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:14:23,044 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:14:24,109 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:14:24,153 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:14:24,159 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:16:23,748 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:16:23,902 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:16:23,914 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:16:23,919 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:16:23,933 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:16:23,939 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:16:26,751 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:16:26,811 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:16:26,815 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:16:42,873 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:16:42,927 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:16:42,934 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:16:42,940 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:16:42,950 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:16:42,955 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:16:44,533 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:16:44,575 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:16:44,579 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:16:50,573 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:16:50,632 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:16:50,636 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:17:43,716 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:17:43,784 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:17:43,796 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:17:43,801 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:17:43,812 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:17:43,818 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:17:45,245 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:17:45,284 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:17:45,287 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:17:51,226 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:17:51,262 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:17:51,266 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:21:05,084 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:21:05,128 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:21:05,135 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:21:05,141 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:21:05,149 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:21:05,154 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:21:06,706 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:21:06,748 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:21:06,751 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:21:55,067 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:21:55,110 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:21:55,117 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:21:55,122 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:21:55,132 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:21:55,137 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:21:56,586 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:21:56,629 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:21:56,632 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:21:57,757 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:21:57,796 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:21:57,803 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:22:33,260 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:22:33,302 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:22:33,311 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:22:33,315 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:22:33,323 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:22:33,328 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:22:34,815 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:22:34,860 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:22:34,863 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:22:41,116 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:22:41,164 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:22:41,173 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:23:34,953 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:23:35,005 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:23:35,011 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:23:35,016 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:23:35,024 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:23:35,028 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:23:36,488 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:23:36,547 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:23:36,550 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:23:37,598 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:23:37,635 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:23:37,641 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:48:04,109 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:48:04,168 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:48:04,189 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:48:04,198 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:48:04,216 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:48:04,231 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:48:06,668 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:48:06,754 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:48:06,764 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:48:08,638 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:48:08,719 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:48:08,728 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 09:48:30,161 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-17 09:48:30,235 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-17 09:48:30,246 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-17 09:48:30,251 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-17 09:48:30,263 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-17 09:48:30,269 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-17 09:48:32,541 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-17 09:48:32,596 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-17 09:48:32,600 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-17 09:48:39,581 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-17 09:48:39,892 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-17 09:48:39,900 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-17 22:37:49,883 - Utility.Log -INFO - The Expected Login Panel Text is:- LOGIN Panel
+2024-05-17 22:37:50,027 - Utility.Log -INFO - The Actual Login Panel Text is:- LOGIN Panel
+2024-05-17 22:37:50,039 - Utility.Log -INFO - Successfully Navigated OrangeHRM Application Login Page Text Matched :-PASS
+2024-05-17 22:37:50,048 - Utility.Log -INFO - The Expected Login Page Title orangeHRM
+2024-05-17 22:37:50,068 - Utility.Log -INFO - The Actual Login page Title OrangeHRM
+2024-05-17 22:37:50,080 - Utility.Log -INFO - Successfully Navigated OrangeHRM Application Title Matched :-PASS
+2024-05-17 22:37:50,103 - Utility.Log -INFO - sapuruTilak
+2024-05-17 22:37:50,115 - Utility.Log -INFO - Tilak@143
+2024-05-17 22:37:53,812 - Utility.Log -INFO - Successfully Navigated to orangeHrm Home Page:-Pass
+2024-05-17 22:37:57,273 - Utility.Log -INFO - sapuruTilak
+2024-05-17 22:37:57,280 - Utility.Log -INFO - Tilak1
+2024-05-17 22:37:59,522 - Utility.Log -INFO - Failed To login Because of invalid Credentials:-Fail
+2024-05-17 22:37:59,989 - Utility.Log -INFO - sapuruTilak
+2024-05-17 22:38:00,000 - Utility.Log -INFO - Tilak@143
+2024-05-17 22:38:04,236 - Utility.Log -INFO - Successfully Navigated to orangeHrm Home Page:-Pass
+2024-05-17 22:38:06,659 - Utility.Log -INFO - Sapuru1
+2024-05-17 22:38:06,680 - Utility.Log -INFO - Tilak@143
+2024-05-17 22:38:07,943 - Utility.Log -INFO - Failed To login Because of invalid Credentials:-Fail
+2024-05-17 22:38:08,183 - Utility.Log -INFO - Sapuru123
+2024-05-17 22:38:08,189 - Utility.Log -INFO - Tilak123456
+2024-05-17 22:38:09,342 - Utility.Log -INFO - Failed To login Because of invalid Credentials:-Fail
+2024-05-18 09:18:25,769 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-18 09:18:25,826 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-18 09:18:25,832 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-18 09:18:25,837 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-18 09:18:25,846 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-18 09:18:25,850 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-18 09:18:27,398 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-18 09:18:27,461 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-18 09:18:27,465 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-18 09:18:28,615 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-18 09:18:28,652 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-18 09:18:28,656 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-18 09:19:29,961 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-18 09:19:30,018 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-18 09:19:30,024 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-18 09:19:30,028 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-18 09:19:30,036 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-18 09:19:30,040 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-18 09:19:31,521 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-18 09:19:31,565 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-18 09:19:31,570 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-18 09:19:32,677 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-18 09:19:32,716 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-18 09:19:32,720 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-18 09:20:59,183 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-18 09:20:59,233 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-18 09:20:59,239 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-18 09:20:59,243 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-18 09:20:59,252 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-18 09:20:59,255 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-18 09:21:03,776 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-18 09:21:03,849 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-18 09:21:03,853 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-18 09:21:06,209 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-18 09:21:06,245 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-18 09:21:06,253 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-18 09:26:40,888 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-18 09:26:40,930 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-18 09:26:40,936 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-18 09:26:40,941 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-18 09:26:40,949 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-18 09:26:40,954 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-18 09:26:42,472 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-18 09:26:42,515 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-18 09:26:42,519 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-18 09:26:43,614 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-18 09:26:43,664 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-18 09:26:43,671 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-18 09:30:41,585 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-18 09:30:41,627 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-18 09:30:41,634 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-18 09:30:41,638 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-18 09:30:41,647 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-18 09:30:41,651 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-18 09:30:43,150 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-18 09:30:43,198 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-18 09:30:43,202 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-18 09:33:35,470 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-18 09:33:35,515 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-18 09:33:35,521 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-18 09:33:35,526 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-18 09:33:35,534 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-18 09:33:35,539 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-18 09:33:37,017 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-18 09:33:37,068 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-18 09:33:37,071 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-18 09:33:38,231 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-18 09:33:38,270 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-18 09:33:38,275 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-18 09:35:01,494 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-18 09:35:01,537 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-18 09:35:01,542 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-18 09:35:01,546 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-18 09:35:01,554 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-18 09:35:01,558 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-18 09:35:02,989 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-18 09:35:03,043 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-18 09:35:03,047 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-18 09:35:04,172 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-18 09:35:04,222 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-18 09:35:04,229 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-22 08:58:15,916 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-22 08:58:16,006 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-22 08:58:16,021 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-22 08:58:16,033 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-22 08:58:16,048 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-22 08:58:16,057 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-22 08:58:25,655 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-22 08:58:25,916 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-22 08:58:25,923 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-22 08:58:31,085 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-22 08:58:31,147 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-22 08:58:31,159 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-22 09:01:49,632 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-22 09:01:49,686 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-22 09:01:49,694 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-22 09:01:49,702 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-22 09:01:49,713 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-22 09:01:49,720 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-22 09:01:51,844 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-22 09:01:51,897 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-22 09:01:51,901 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-22 09:01:53,455 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-22 09:01:53,508 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-22 09:01:53,513 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-22 09:15:03,676 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-22 09:15:03,742 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-22 09:15:03,751 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-22 09:15:03,758 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-22 09:15:03,771 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-22 09:15:03,777 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-22 09:15:06,487 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-22 09:15:06,595 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-22 09:15:06,599 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-22 09:15:08,114 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-22 09:15:08,160 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-22 09:15:08,168 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-22 09:17:11,970 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-22 09:17:12,035 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-22 09:17:12,046 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-22 09:17:12,051 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-22 09:17:12,063 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-22 09:17:12,069 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-22 09:17:14,488 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-22 09:17:14,544 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-22 09:17:14,549 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-22 09:17:16,207 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-22 09:17:16,265 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-22 09:17:16,270 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-22 09:18:26,547 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-22 09:18:26,606 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-22 09:18:26,618 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-22 09:18:26,626 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-22 09:18:26,638 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-22 09:18:26,645 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-22 09:18:28,820 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-22 09:18:28,886 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-22 09:18:28,891 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-22 09:18:30,369 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-22 09:18:30,419 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-22 09:18:30,424 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-22 09:21:08,179 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-22 09:21:08,241 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-22 09:21:08,254 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-22 09:21:08,259 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-22 09:21:08,272 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-22 09:21:08,278 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-22 09:21:10,561 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-22 09:21:10,619 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-22 09:21:10,623 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-22 09:21:12,160 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-22 09:21:12,214 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-22 09:21:12,223 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-22 09:22:14,011 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-22 09:22:14,068 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-22 09:22:14,078 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-22 09:22:14,086 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-22 09:22:14,097 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-22 09:22:14,103 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-22 09:22:16,288 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-22 09:22:16,357 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-22 09:22:16,361 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-22 09:22:17,890 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-22 09:22:17,944 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-22 09:22:17,953 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+2024-05-22 09:25:38,935 - Utility.Log -INFO - This Expected Login Panel Text Is:-LOGIN Panel
+2024-05-22 09:25:38,998 - Utility.Log -INFO - The Actual Login Panel Text Is:- LOGIN Panel
+2024-05-22 09:25:39,006 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Login Page:-Pass
+2024-05-22 09:25:39,013 - Utility.Log -INFO - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+2024-05-22 09:25:39,024 - Utility.Log -INFO - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+2024-05-22 09:25:39,031 - Utility.Log -INFO - The Title of the OrangeHrm Page is Matched:-Pass
+2024-05-22 09:25:41,447 - Utility.Log -INFO - The Expected OrangeHrm Home Page Text is:-Admin
+2024-05-22 09:25:41,506 - Utility.Log -INFO - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+2024-05-22 09:25:41,511 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Homepage:-Pass
+2024-05-22 09:25:43,314 - Utility.Log -INFO - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+2024-05-22 09:25:43,364 - Utility.Log -INFO - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+2024-05-22 09:25:43,373 - Utility.Log -INFO - Successfully Navigated to OrangeHrm Employee List Page:-Pass

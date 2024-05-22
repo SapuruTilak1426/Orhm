@@ -1,0 +1,27 @@
+<suite name="OrangeHRMApplication">
+	<test name="loginValidtion">
+		<classes>
+			<class
+				name="OrangeHRMApplciationTestCases.OrangeHrm_Login_validation_WithXLSX">
+			</class>
+		</classes>
+	</test>
+
+	<test name="Addemployee">
+		<classes>
+			<class
+				name="OrangeHRMApplciationTestCases.OrangeHrm_HomePage_AddEmployee_Xlsx">
+			</class>
+		</classes>
+	</test>
+
+	<test name="EmployeeList">
+		<classes>
+			<class
+				name="OrangeHRMApplciationTestCases.OragneHRMApplicatioEmployeeList">
+			</class>
+		</classes>
+	</test>
+
+
+</suite>

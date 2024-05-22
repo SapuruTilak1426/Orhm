@@ -1,0 +1,697 @@
+[TestNG-tests-3] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[TestNG-tests-2] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[TestNG-tests-1] INFO Utility.Log - The Expected Login Panel Text is:- LOGIN Panel
+[TestNG-tests-3] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[TestNG-tests-3] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[TestNG-tests-1] INFO Utility.Log - The Actual Login Panel Text is:- LOGIN Panel
+[TestNG-tests-1] INFO Utility.Log - Successfully Navigated OrangeHRM Application Login Page Text Matched :-PASS
+[TestNG-tests-3] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[TestNG-tests-1] INFO Utility.Log - The Expected Login Page Title orangeHRM
+[TestNG-tests-2] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[TestNG-tests-2] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[TestNG-tests-2] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[TestNG-tests-3] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[TestNG-tests-3] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[TestNG-tests-1] INFO Utility.Log - The Actual Login page Title OrangeHRM
+[TestNG-tests-1] INFO Utility.Log - Successfully Navigated OrangeHRM Application Title Matched :-PASS
+[TestNG-tests-2] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[TestNG-tests-2] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[TestNG-tests-1] INFO Utility.Log - sapuruTilak
+[TestNG-tests-1] INFO Utility.Log - Tilak@143
+[TestNG-tests-3] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[TestNG-tests-2] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - The Expected Login Panel Text is:- LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated OrangeHRM Application Login Page Text Matched :-PASS
+[main] INFO Utility.Log - The Expected Login Page Title orangeHRM
+[main] INFO Utility.Log - The Actual Login page Title OrangeHRM
+[main] INFO Utility.Log - Successfully Navigated OrangeHRM Application Title Matched :-PASS
+[main] INFO Utility.Log - sapuruTilak
+[main] INFO Utility.Log - Tilak@143
+[main] INFO Utility.Log - Successfully Navigated to orangeHrm Home Page:-Pass
+[main] INFO Utility.Log - sapuruTilak
+[main] INFO Utility.Log - Tilak1
+[main] INFO Utility.Log - Failed To login Because of invalid Credentials:-Fail
+[main] INFO Utility.Log - sapuruTilak
+[main] INFO Utility.Log - Tilak@143
+[main] INFO Utility.Log - Successfully Navigated to orangeHrm Home Page:-Pass
+[main] INFO Utility.Log - Sapuru1
+[main] INFO Utility.Log - Tilak@143
+[main] INFO Utility.Log - Failed To login Because of invalid Credentials:-Fail
+[main] INFO Utility.Log - Sapuru123
+[main] INFO Utility.Log - Tilak123456
+[main] INFO Utility.Log - Failed To login Because of invalid Credentials:-Fail
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm HomePage:-Pass
+[main] INFO Utility.Log - The Expected Add Employee Page Text is :-Add Employee
+[main] INFO Utility.Log - The Actual Add Employee Page Text is:-Add Employee
+[main] INFO Utility.Log - Successfully Navigated to Add Employee Page:-Pass
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm PersonalDetailsPage:-Pass
+[main] INFO Utility.Log - The FirstName is matched:-Pass
+[main] INFO Utility.Log - The Middle Name is matched:-Pass
+[main] INFO Utility.Log - The last Name is matched:-Pass
+[main] INFO Utility.Log - The Employee Id is matched:-Pass
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm PersonalDetailsPage:-Pass
+[main] INFO Utility.Log - The FirstName is matched:-Pass
+[main] INFO Utility.Log - The Middle Name is matched:-Pass
+[main] INFO Utility.Log - The last Name is matched:-Pass
+[main] INFO Utility.Log - The Employee Id is matched:-Pass
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm PersonalDetailsPage:-Pass
+[main] INFO Utility.Log - The FirstName is matched:-Pass
+[main] INFO Utility.Log - The Middle Name is matched:-Pass
+[main] INFO Utility.Log - The last Name is matched:-Pass
+[main] INFO Utility.Log - The Employee Id is matched:-Pass
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Dashboard
+[main] INFO Utility.Log - Failed to Navigate to OrangeHrm Employee List Page:-Fail
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - The Expected Login Panel Text is:- LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated OrangeHRM Application Login Page Text Matched :-PASS
+[main] INFO Utility.Log - The Expected Login Page Title orangeHRM
+[main] INFO Utility.Log - The Actual Login page Title OrangeHRM
+[main] INFO Utility.Log - Successfully Navigated OrangeHRM Application Title Matched :-PASS
+[main] INFO Utility.Log - sapuruTilak
+[main] INFO Utility.Log - Tilak@143
+[main] INFO Utility.Log - Successfully Navigated to orangeHrm Home Page:-Pass
+[main] INFO Utility.Log - sapuruTilak
+[main] INFO Utility.Log - Tilak1
+[main] INFO Utility.Log - Failed To login Because of invalid Credentials:-Fail
+[main] INFO Utility.Log - sapuruTilak
+[main] INFO Utility.Log - Tilak@143
+[main] INFO Utility.Log - Successfully Navigated to orangeHrm Home Page:-Pass
+[main] INFO Utility.Log - Sapuru1
+[main] INFO Utility.Log - Tilak@143
+[main] INFO Utility.Log - Failed To login Because of invalid Credentials:-Fail
+[main] INFO Utility.Log - Sapuru123
+[main] INFO Utility.Log - Tilak123456
+[main] INFO Utility.Log - Failed To login Because of invalid Credentials:-Fail
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
+[main] INFO Utility.Log - This Expected Login Panel Text Is:-LOGIN Panel
+[main] INFO Utility.Log - The Actual Login Panel Text Is:- LOGIN Panel
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Login Page:-Pass
+[main] INFO Utility.Log - The Expected Title of the OrangeHrm Login Page is:-orangeHRM
+[main] INFO Utility.Log - The Actual Title of the OrangeHrm Login Page is:-OrangeHRM
+[main] INFO Utility.Log - The Title of the OrangeHrm Page is Matched:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm Home Page Text is:-Admin
+[main] INFO Utility.Log - The Actual OrangeHrm Home Page Text is:-Welcome Admin
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Homepage:-Pass
+[main] INFO Utility.Log - The Expected OrangeHrm EmployeeList Page Text is:-Employee Information
+[main] INFO Utility.Log - The Actual  OrangeHrm EmployeeList Page Text is:- Employee Information
+[main] INFO Utility.Log - Successfully Navigated to OrangeHrm Employee List Page:-Pass
